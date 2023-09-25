@@ -1,5 +1,8 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-verdeflorcactosesuculentas.github.io.Rproj
+.DS_Store
+
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+
+Gemfile.lock
